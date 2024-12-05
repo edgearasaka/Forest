@@ -1,2 +1,1 @@
-# ForestGitHub
-aciklama
+ACIKlAMA
